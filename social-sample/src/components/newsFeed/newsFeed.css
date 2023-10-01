@@ -1,0 +1,36 @@
+
+.feed__card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    height: 7rem;
+}
+.post__card{
+        margin-bottom: 1.5rem;
+
+}
+.post__user__data{
+    display: flex;
+}
+
+.profile__card__data{
+    margin-left: 1rem;
+}
+.date{
+    padding-top: 1rem;
+}
+.post__content{
+    height: 50px;
+    overflow: hidden;
+}
+.post__response{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+}
+.post__reaction{
+    display: flex;
+    gap: 2rem;
+    font-weight: bold;
+}

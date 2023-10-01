@@ -1,0 +1,16 @@
+.profile__card{
+    display: flex;
+}
+
+.profile__card__data p:first-child{
+    color: black;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.profile__card__data p:last-child{
+    color: #6c757d;
+    font-size: 1rem;
+    margin-top: -1rem;
+
+}

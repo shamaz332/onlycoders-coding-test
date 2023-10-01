@@ -1,0 +1,6 @@
+.top__bar {
+	z-index: 999;
+}
+.side__bar {
+	position: fixed;
+}
